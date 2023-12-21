@@ -1,0 +1,99 @@
+/* 
+body{
+
+    background-image: url("fajar.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+h1{
+    background: linear-gradient( skyblue,white);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+p{
+    background: linear-gradient( skyblue,white);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.div{
+    background-color:brown;
+    font-size: large;
+    font-family:"press start 2p";
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:cyan dashed underline;
+    color: black;
+}
+.div1{
+    background-color:pink;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+.div2{
+    background-color:blue;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+.fajar{
+    background-color:aliceblue;
+    border-style: outset;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+    padding: 5px;
+} */
+/* img */
+/* { */
+    /* float: right; */
+/* } */
+body{
+         
+    background-image: url("image.jpg");
+    margin: 0px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+
+}
+main{
+    margin-left: 100px;
+    margin-right: 600px;
+    
+}
+
+    h1{
+        
+        text-align: center;
+       
+    }
+
+.navbar ul{
+    list-style-type: none;
+    background-color:rgb(41, 39, 39); 
+     padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+.navbar a{
+    color:white;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+.navbar a:hover{
+    background-color: rgb(154, 151, 151);
+}
+.navbar li{
+    float: left;
+    
+}
